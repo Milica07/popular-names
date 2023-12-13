@@ -26,3 +26,5 @@ LIMIT
   
 This query SELECTs the name and count columns from the baby_names_2014 table. Using the WHERE clause, gender is filtered. Then, sorting - how results will appear with ORDER BY. With ordering by the count in descending order, names and the corresponding count will appear from largest to smallest. And finally, LIMIT tells SQL to only return the top five most popular names and their counts. 
 
+[BigQuery - query](https://console.cloud.google.com/bigquery?sq=993565623922:ae919ccc1f9245b3986e5fd676da9f41)
+
