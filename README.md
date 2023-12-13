@@ -10,7 +10,8 @@
 
 ###### Query: What are the top five baby names for boys in the United States in 2014?
 
-```SELECT
+```
+SELECT
   name,
   count
 FROM
